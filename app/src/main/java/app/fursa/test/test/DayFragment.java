@@ -8,9 +8,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-/**
- * Created by xxx on 02.01.17.
- */
 public class DayFragment extends Fragment {
     private static final String DAY_KEY = "day_key";
 
